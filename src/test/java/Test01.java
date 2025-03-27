@@ -6,7 +6,6 @@ import org.openqa.selenium.*;
 import org.openqa.selenium.edge.EdgeDriver;
 import org.openqa.selenium.interactions.Actions;
 import org.openqa.selenium.support.ui.*;
-
 import java.io.FileInputStream;
 import java.io.IOException;
 import java.time.Duration;
