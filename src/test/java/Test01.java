@@ -18,7 +18,7 @@ public class Test01 {
 
     @BeforeAll
     static void setUpClass() {
-        System.setProperty("webdriver.edge.driver", "./edgedriver_win64/msedgedriver.exe");
+        System.setProperty("webdriver.edge.driver", "./edgedriver_win64/msedgedriver2.exe");
     }
 
     @BeforeEach
